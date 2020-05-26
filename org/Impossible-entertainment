@@ -1,0 +1,13 @@
+---
+layout: org
+title: impossible entertainment
+site: http://www.impossibleentertainment.com
+---
+The primary purpose of my company is a DJ/Entertainment company. 
+However, im also an electrical engineer and every now and then i try to design small pieces of gear that will help out DJs.
+
+Right now everyone is stuck in a digital age, and access to hdmi devices is scarce. im trying to design a simple hdmi capture device
+to help DJs (and really anyone) stay connected.
+
+I am happy to make everything open source. i only really have a basic block diagram right now and saw the pid being a potential show stopper.
+I can share more as it is designed.
